@@ -88,6 +88,7 @@ export default {
   margin-bottom: 15px;
 }
 img {
-  height: 752px;
+  height: 760px;
+  width: 1462px;
 }
 </style>>
